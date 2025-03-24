@@ -1,0 +1,11 @@
+uuid: 92396d11-e110-43d0-b206-24b3059dff84
+langcode: en
+status: true
+dependencies: {  }
+id: call_to_action
+block_id: 'inline_block:call_to_action'
+category: zoocha_components
+label: 'Call to Action'
+image_path: ''
+image_alt: ''
+weight: null

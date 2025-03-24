@@ -1,0 +1,19 @@
+uuid: 82ea4447-c228-49b7-a9a4-7c66454a6ecd
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.call_to_action
+    - field.storage.block_content.field_copy
+id: block_content.call_to_action.field_copy
+field_name: field_copy
+entity_type: block_content
+bundle: call_to_action
+label: Copy
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

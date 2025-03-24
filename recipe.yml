@@ -1,0 +1,10 @@
+name: 'ZC Call To Action'
+description: 'Installs Zoocha Call To Action Component'
+type: 'Feature'
+install:
+  - linkit
+recipes:
+  - zr-layout-builder-bundle
+
+config:
+  strict: false
