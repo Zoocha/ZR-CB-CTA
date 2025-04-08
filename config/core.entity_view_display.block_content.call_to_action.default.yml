@@ -15,14 +15,14 @@ mode: default
 content:
   field_copy:
     type: basic_string
-    label: above
+    label: hidden
     settings: {  }
     third_party_settings: {  }
     weight: 0
     region: content
   field_link:
     type: linkit
-    label: above
+    label: hidden
     settings:
       trim_length: 80
       url_only: false
